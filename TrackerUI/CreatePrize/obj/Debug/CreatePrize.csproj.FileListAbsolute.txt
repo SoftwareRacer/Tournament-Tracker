@@ -1,0 +1,10 @@
+C:\Users\marco\Documents\Office\Visual Studio\C#\TournamentTracker\CreatePrize\bin\Debug\CreatePrize.exe.config
+C:\Users\marco\Documents\Office\Visual Studio\C#\TournamentTracker\CreatePrize\bin\Debug\CreatePrize.exe
+C:\Users\marco\Documents\Office\Visual Studio\C#\TournamentTracker\CreatePrize\bin\Debug\CreatePrize.pdb
+C:\Users\marco\Documents\Office\Visual Studio\C#\TournamentTracker\CreatePrize\obj\Debug\CreatePrize.csprojAssemblyReference.cache
+C:\Users\marco\Documents\Office\Visual Studio\C#\TournamentTracker\CreatePrize\obj\Debug\CreatePrize.CreatePrize.resources
+C:\Users\marco\Documents\Office\Visual Studio\C#\TournamentTracker\CreatePrize\obj\Debug\CreatePrize.Properties.Resources.resources
+C:\Users\marco\Documents\Office\Visual Studio\C#\TournamentTracker\CreatePrize\obj\Debug\CreatePrize.csproj.GenerateResource.cache
+C:\Users\marco\Documents\Office\Visual Studio\C#\TournamentTracker\CreatePrize\obj\Debug\CreatePrize.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\Office\Visual Studio\C#\TournamentTracker\CreatePrize\obj\Debug\CreatePrize.exe
+C:\Users\marco\Documents\Office\Visual Studio\C#\TournamentTracker\CreatePrize\obj\Debug\CreatePrize.pdb
